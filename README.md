@@ -1,5 +1,5 @@
 # brenbronze MC Project Suggestions & Issues
-Repository to request suggestions and report issues with MC Projects made by brenbronze
+Repository to request suggestions and report issues with minecraft projects made by brenbronze
 
 [brenbronze's Modrinth](https://modrinth.com/user/brenbronz)
 
