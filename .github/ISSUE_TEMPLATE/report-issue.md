@@ -1,6 +1,6 @@
 ---
 name: Report issue
-about: Create a report to improve the project
+about: Create a report to improve a project
 title: ''
 labels: ''
 assignees: ''
