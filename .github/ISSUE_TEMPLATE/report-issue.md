@@ -1,6 +1,6 @@
 ---
 name: Report issue
-about: Create a report to improve a project
+about: Report an issue to improve a project
 title: ''
 labels: ''
 assignees: ''
@@ -16,11 +16,11 @@ The version of the project that the issue can be found in.
 **Describe your issue**
 A clear and concise description of what the issue is.
 
-**To Reproduce Issue..**
+**To reproduce issue..**
 Clear instructions of how to reproduce the behavior.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Media**
+If applicable, add media (e.g. screenshots, videos) to help explain your problem.
 
 **Additional context**
 Add any other context about the issue here.
