@@ -17,11 +17,7 @@ The version of the project that the issue can be found in.
 A clear and concise description of what the issue is.
 
 **To Reproduce Issue..**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Clear instructions of how to reproduce the behavior.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
