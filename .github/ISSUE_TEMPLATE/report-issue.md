@@ -11,7 +11,10 @@ assignees: ''
 The project that the issue can be found in.
 
 **Project version**
-The version of the project that the issue can be found in.
+The version of the project.
+
+**Project release**
+The release of the project version.
 
 **Describe your issue**
 A clear and concise description of what the issue is.
