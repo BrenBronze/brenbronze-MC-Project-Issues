@@ -5,6 +5,6 @@ Use the issues tab for both issues and suggestions
 
 [brenbronze's Modrinth](https://modrinth.com/user/brenbronz) (Recommended)
 
-[brenbronze's Curseforge](https://www.curseforge.com/members/brenbronze/projects)
-
 [![brenbronz_modrinth](https://cdn.modrinth.com/user/B7OK2JW5/a68f0af19d6a542d3c2aa90d1e19fb596bce7efc.png)](https://modrinth.com/user/brenbronz)
+
+[brenbronze's Curseforge](https://www.curseforge.com/members/brenbronze/projects)
