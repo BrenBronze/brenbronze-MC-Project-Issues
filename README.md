@@ -3,7 +3,7 @@ Repository to request suggestions and report issues with minecraft projects made
 
 Use the issues tab for both issues and suggestions
 
-Not all issues and suggestions will be seen quickly
+Issues and suggestions may take time to be seen
 
 [brenbronze's Modrinth](https://modrinth.com/user/brenbronz) (Recommended)
 
