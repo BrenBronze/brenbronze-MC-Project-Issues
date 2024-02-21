@@ -13,7 +13,7 @@ The project that the issue can be found in.
 **Project version**
 The version of the project.
 
-**Project release**
+**Project release (Only seen on Modrinth)**
 The release of the project version.
 
 **Describe your issue**
@@ -26,4 +26,4 @@ Clear instructions of how to reproduce the behavior.
 If applicable, add media (e.g. screenshots, videos) to help explain your problem.
 
 **Additional context**
-Add any other context about the issue here.
+Add any other context about the issue here, if any.
