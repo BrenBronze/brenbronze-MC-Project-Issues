@@ -11,10 +11,10 @@ assignees: ''
 The project that the issue can be found in.
 
 **Project version**
-The version of the project.
+The version of the project that the issue can be found in.
 
-**Project release (Only seen on Modrinth)**
-The release of the project version.
+**Project Minecraft version**
+The Minecraft version of the project that the issue can be found in.
 
 **Describe your issue**
 A clear and concise description of what the issue is.
