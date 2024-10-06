@@ -16,5 +16,8 @@ A clear and concise description of the feature.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered, if any.
 
+**Media**
+If any, add media (e.g screenshots, videos) to help explain the feature and it's purpose.
+
 **Additional context**
-Add any other context or screenshots about the feature request here, if any.
+Add any other context about the feature request here, if any.
